@@ -1,5 +1,7 @@
-body {
+
+.body {
     font-family: 'Montserrat', sans-serif;
+    font-size: medium;
     background-color: hsl(211, 45%, 89%);
 }
 .header {
@@ -11,17 +13,21 @@ body {
     height: 200px;
     border-radius: 50%;
     margin-left: 550px;
+    
 }
 .block-center {
     background-color: rgb(127, 255, 212);
     line-height: 100px;
     width: 1200px;
     margin-left: 40px;
+    font-weight: bold;
+    
 }
 .two-block {
     width: 1200px;
     display: flex;
     margin-left: 40px;
+    
 }
 .main-container {
     background-color: rgb(182, 115, 245);
@@ -38,6 +44,12 @@ body {
     border: 1px solid hsl(240, 100%, 50%);
     margin: 5px;
     position: relative;
+}
+.sedebar-title,
+.main-content-title,
+.experience-position {
+  text-shadow: 1px 1px 2px black;
+  text-decoration: underline;
 }
 .button-text {
     width: 1200px;
@@ -58,17 +70,18 @@ body {
     width: 400px;
 }
 .button {
-       margin: 10px;
+  margin: 10px;
     
 }
 .text {
-    background-color: rgb(207, 177, 235);
-    border: 1px solid hsl(240, 100%, 50%);
-    margin: 5px;
-    width: 600px;
+  background-color: rgb(207, 177, 235);
+  border: 1px solid hsl(240, 100%, 50%);
+  margin: 5px;
+  width: 600px;
+    
 }
 .left-arrow {
-    display: inline-flex;
+  display: inline-flex;
   position: absolute;
   top: 50%;
   left: 0;
