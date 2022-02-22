@@ -1,0 +1,463 @@
+body {
+    background-color: #d1cfcf;
+    width: 2556px;
+    
+}
+.main-contenier {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 2771px;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-bottom: 200px;
+    box-shadow: 5px 20px 80px black;
+    
+}
+
+.about-me-section {
+    display: flex;
+    flex-direction: column;
+    width: 2299px;
+}
+.name-section {
+    height: 1122px;
+    width: 1650px;
+    background-color: #ffffff;
+    
+}
+.yellow {
+    display: flex;   
+    flex-direction: row;
+    vertical-align: auto;
+    width: 314px;
+    background-color: #ffca05;
+    
+}
+.name-size {
+    margin: 345px 863px 303px 149px;
+}
+.name{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 166.7px;
+    line-height: 166px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    color: #22222d;
+
+
+}
+.brick {
+    width: 108px;
+    height: 6px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #ffca05;
+}
+.ui {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 58.4px;
+    line-height: 150px;
+    font-weight: 400;
+    letter-spacing: 0.3em;
+    color: #22222d;
+    margin-top: 157px;
+}
+h1 {
+    
+    font-size: 83.4px;
+    line-height: 150px;
+    font-weight: 360;
+    height: 107px;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
+.education {
+    margin-top: 79px;
+    margin-right: 289px;
+    margin-left: -34px;
+}
+.education-contenier {
+    background-color: #22222d;
+    width: 1500px;
+    padding-top: 45px;
+    padding-left: 150px;
+    height: 2417px;
+}
+.major {
+    font-family: 'Poppins', sans-serif;
+    float: left;
+    width: 49%;
+    font-size: 41.7px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #ffffff;
+    padding-top: 27px;
+    padding-left: 4px;
+}
+.r-major {
+    font-family: 'Poppins', sans-serif;
+    float: right;
+    width: 49%;
+    font-size: 41.7px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #ffffff;
+    padding-top: 28px;
+    padding-left: 20px;
+}
+.university {
+    font-family: 'Poppins', sans-serif;
+    font-size: 37.5px;
+    line-height: 58px;
+    font-weight: 100;
+    color: #ffffff;
+}
+.expertience {
+    margin-top: 400px;
+    padding-top: 100px;
+
+}
+.expertience-header {
+    margin-top: -3px;
+    margin-left: -35px;
+}
+.present {
+    line-height: 1.2;
+    font-weight: 600;
+    color: #22222d;
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    width: 218px;
+    height: 46px;
+    background-color: #ffca05;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 33.4px;
+    padding-top: 8px;
+    float: left;
+    margin-top: -9px;
+    margin-left: -25px;
+}
+.company {
+    float: left;
+    width: 49%;
+    margin-top: -10px;
+    margin-left: 34px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 37.5px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #ffffff;
+}
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 45.9px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 85px;
+    margin-left: -29px;
+}
+.job {
+    margin-top: 108px;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 37.5px;
+    line-height: 58px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 44px;
+    margin-left: -25px;
+}
+.about-me {
+    background-color: #292934;
+    width: 905px;
+    height: 3583px;
+}
+.expertise {
+    margin-top: 231px;
+    margin-left: -28px;
+}
+.ellipse-2 {
+    position: relative;
+    margin-top: 41px;
+    margin-left: 11px;
+}
+.ellipse-img-grey,
+.ellipse-img-yellow,
+.ellipse-img {
+    width: 217px;
+    height: 220px;
+}
+.ellipse-img-grey {
+    color: rgba(34, 34, 45, 1);
+    position: absolute;
+    width: 221px;
+    height: 223px;
+}
+.ellipse-img-yellow {
+    color: rgba(255, 202, 5, 1);
+    position: absolute;
+}
+.ellipse-img {
+    color: rgba(225, 225, 225, 1);
+    position: initial;
+}
+.ellipse-photoshop {
+    position: absolute;
+    margin-top: 83px;
+    margin-left: -171px;
+}
+.ellips-3 {
+    position: relative;
+    margin-top: 37px;
+    margin-left: 64px;
+}
+.ellips-img-2grey,
+.ellips-img-2yellow,
+.ellips-img-2white {
+    width: 217px;
+    height: 220px;     
+} 
+.ellips-img-2grey {
+    position: absolute;
+}
+.ellips-img-2yellow {
+    position: absolute;
+}
+.ellips-img-2white {
+position: initial;
+}
+.ellips-illustrar {
+    position: absolute;
+    margin-top: 87px;
+    margin-left: -163px;
+}
+.ellips-4 {
+    position: relative;
+    margin-top: 41px;
+    margin-left: 61px;
+}
+.ellips-img-3grey,
+.ellips-img-3yellow,
+.ellips-img-3white {
+    width: 217px;
+    height: 220px;  
+}
+.ellips-img-3grey {
+    position: absolute;
+}
+.ellips-img-3yellow {
+    position: absolute;
+}
+.ellips-img-3white {
+    position: initial;
+}
+.ellips-indesign {
+    position: absolute;
+    margin-top: 84px;
+    margin-left: -158px;
+}
+.ellips-5 {
+    position: relative;
+    margin-top: 41px;
+    margin-left: 61px;
+}
+.ellips-img-4grey,
+.ellips-img-4yellow
+.ellips-img-4white {
+    width: 217px;
+    height: 220px; 
+}
+.ellips-img-4grey {
+    position: absolute;
+    width: 223px;
+}
+.ellips-img-4yellow {
+    position: absolute;
+    width: 219px;
+    height: 220px;
+}
+.ellips-img-4white {
+    position: initial;
+    width: 219px;
+}
+.ellips-power-point {
+    position: absolute;
+    margin-top: 84px;
+    margin-left: -148px;
+}
+.text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 33.4px;
+    line-height: 58px;
+    font-weight: 300;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
+.about-me-box {
+    padding-top: 50px;
+    padding-left: 118px;
+    width: 900px;
+}
+.type {
+    color: #ffca05;
+}
+.contact-box {
+    margin-top: 200px;
+}
+.contact-inbox {
+    margin-top: 80px;
+    
+}
+.contact,
+.contact-email,
+.contact-area {
+    font-family: 'Poppins', sans-serif;
+    font-size: 41.7px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #ffffff;
+    
+}
+.contact-email {
+    display: block;
+    margin-top: 65px;
+}
+.contact-area {
+    display: block;
+    margin-top: 40px;
+}
+.tel {
+    font-family: 'Poppins', sans-serif;
+    font-size: 29.2px;
+    font-weight: 400;
+    text-transform: none;
+    color: #ffffff;
+}
+.hobbies {
+    margin-top: 163px;
+}
+.ellips-box {
+    display: flex;
+    position: relative;
+}
+.ellips {
+    width: 73px;
+    height: 74px;
+    border-radius: 50%;
+    border: 0.1875em solid #dd9d12;
+    margin-top: 17px;
+    margin-left: 7px;
+    position: absolute;
+}
+.travel {
+    position: absolute;
+    margin-left: 26px;
+    padding-top: 41px;
+}
+.text-travel {
+    font-family: Poppins;
+    font-size: 33.4px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #ffffff;
+    margin-top: 119px;
+}
+.music-box {
+    display: flex;
+    position: relative;
+    padding-left: 83px;
+}
+.music {
+    position: absolute;
+    margin-left: 26px;
+    padding-top: 39px;
+}
+.text-music {
+    font-family: Poppins;
+    font-size: 33.4px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #ffffff;
+    margin-top: 119px;
+}
+.writing-box {
+    display: flex;
+    position: relative;
+    padding-left: 71px;
+}
+.writing {
+    position: absolute;
+    margin-left: 26px;
+    padding-top: 39px;
+    padding-left: 361px;
+}
+.text-writing {
+    font-family: Poppins;
+    font-size: 33.4px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #ffffff;
+    margin-top: 119px;
+}
+.ellips-writing {
+    width: 73px;
+    height: 74px;
+    border-radius: 50%;
+    border: 0.1875em solid #dd9d12;
+    margin-top: 17px;
+    margin-left: 367px;
+    position: absolute;
+}
+.chess-box {
+    display: flex;
+    position: relative;
+    padding-left: 71px;
+}
+.ellips-chess {
+    width: 73px;
+    height: 74px;
+    border-radius: 50%;
+    border: 0.1875em solid #dd9d12;
+    margin-top: 17px;
+    margin-left: 9px;
+    position: absolute;
+}
+.chess {
+    position: absolute;
+    margin-left: 26px;
+    padding-top: 39px;
+    padding-left: 7px;
+}
+.text-chess {
+    font-family: Poppins;
+    font-size: 33.4px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #ffffff;
+    margin-top: 119px;
+    margin-left: -2px;
+}
+.rotate-shadows {
+    width: 220px;
+    height: 220px;
+    position: relative;
+  }
+  .rotate-shadows:after,
+  .rotate-shadows:before {
+    content: "";
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform-origin: center center;
+  }
+  .rotate-shadows:before {
+    box-shadow: inset 0 20px 0 rgba(0, 250, 250, 0.6), inset 20px 0 0 rgba(0, 200, 200, 0.6), inset 0 -20px 0 rgba(0, 150, 200, 0.6), inset -20px 0 0 rgba(0, 200, 250, 0.6);
+    animation: rotate-before 2s -0.5s linear infinite;
+  }
+  
