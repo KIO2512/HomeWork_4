@@ -314,47 +314,98 @@ position: initial;
     font-weight: 300;
     letter-spacing: 0.1em;
     color: #ffffff;
+    margin-top: 61px;
+    margin-left: 0px;
 }
 .about-me-box {
     padding-top: 50px;
     padding-left: 118px;
     width: 900px;
 }
-
+.about_me {
+    font-family: 'Bebas Neue', cursive;
+    line-height: 1.2;
+    font-size: 82.4px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+    margin-top: 99px;
+    margin-bottom: -19px;
+    margin-left: 0px;
+    
+}
 .contact-box {
     margin-top: 200px;
 }
 .contact-inbox {
-    margin-top: 80px;
+    margin-top: 68px;
     
+}
+.contact-info {
+    font-family: 'Bebas Neue', cursive;
+    line-height: 1.2;
+    font-size: 82.4px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+    margin-left: -1px;
+    padding-top: 29px;
 }
 .contact,
 .contact-email,
 .contact-area {
     font-family: 'Poppins', sans-serif;
     font-size: 41.7px;
-    line-height: 1.2;
+    line-height: 0.2;
     font-weight: 600;
     color: #ffffff;
-    
+    margin-left: -1px;
+    padding-top: 2px;
 }
 .contact-email {
     display: block;
-    margin-top: 65px;
+    line-height: 0.2;
+    margin-top: 69px;
 }
 .contact-area {
     display: block;
-    margin-top: 40px;
+    line-height: 0.2;
+    margin-top: 58px;
 }
-.tel {
+.phone {
     font-family: 'Poppins', sans-serif;
+    line-height: 2.2;
+    font-size: 30.2px;
+    font-weight: 400;
+    text-transform: none;
+    color: #ffffff;
+}
+.email {
+    font-family: 'Poppins', sans-serif;
+    line-height: 2.2;
+    font-size: 28.2px;
+    font-weight: 400;
+    text-transform: none;
+    color: #ffffff;
+}
+.area {
+    font-family: 'Poppins', sans-serif;
+    line-height: 2.2;
     font-size: 29.2px;
     font-weight: 400;
     text-transform: none;
     color: #ffffff;
 }
 .hobbies {
-    margin-top: 163px;
+    margin-top: 154px;
+}
+.hobbies-me {
+    font-family: 'Bebas Neue', cursive;
+    line-height: 2.2;
+    font-size: 82.4px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #ffffff;
 }
 .ellips-box {
     display: flex;
